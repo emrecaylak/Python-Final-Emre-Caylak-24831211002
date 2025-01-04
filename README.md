@@ -13,8 +13,12 @@ FİNAL TESLİMİ
 DERS SORUMLUSU: Dr. Öğr. Üyesi Kadriye Burcu YAVUZ
 HAZIRLAYAN: Emre ÇAYLAK (24831211002)
 
+
+
 GİRİŞ
 Bu çalışma kapsamında “Geospatial School” adlı YouTube kanalının “QGIS Python (PyQGIS) - Loading and symbolizing raster layers” adlı videosunda anlatılanlar; Aydın İli, Bozdoğan İlçesi, Kara Ahmetler Mahallesinde bulunan bir alanın dem verisi QGIS yazılımı kullanılarak Python kodu ile oluşturulmuş, renklendirilmiş ve görselleştirilmiştir (URL-1).
+
+
 
 YÖNTEM
 1) QGIS yazılımında mekansal analiz yapılması ve hazırlanan kodun Python eklentisine tanıtarak görselleştirilmesi.
@@ -26,6 +30,8 @@ YÖNTEM
 •	Ödev kapsamında hazırlanan belgeler GitHub hesabı üzerinden bir repository oluşturularak içerisine aktarılmıştır (URL-2).
 •	Hazırlanan repository’nin içerisine uygulama aşamasında oluşturulan ekran görüntüleri ve çıktılar aktarılmıştır.
 •	“Readme.md” dosyası içerisinde uygulamanın açıklaması ve kullanılan Python kodu belirtilmiştir:
+
+
 
 PYTHON KODU
 
@@ -56,3 +62,12 @@ shader.setRasterShaderFunction(fnc)
 renderer = QfsSingleBandPseudoColorRenderer(rplayer.dataProvider(), 1, shader)
 rlayer.setRenderer(renderer)
 
+
+
+KAYNAKÇA
+
+URL-1 <https://www.youtube.com/watch?v=W5_3H2UWYms&list=PLzHdTn7Pdxs7bWcdXMaaf3Wpz-W8q0Lbj>
+(Erişim Tarihi: 04.01.2025)
+URL-2
+<https://github.com/emrecaylak/Python-Final-Emre-Caylak-24831211002> 
+(Erişim Tarihi: 04.01.2025)
