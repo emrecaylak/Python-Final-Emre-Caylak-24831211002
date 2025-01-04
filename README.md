@@ -22,14 +22,14 @@ Bu çalışma kapsamında “Geospatial School” adlı YouTube kanalının “Q
 
 YÖNTEM
 1) QGIS yazılımında mekansal analiz yapılması ve hazırlanan kodun Python eklentisine tanıtarak görselleştirilmesi.
-•	Öncelikle QGIS üzerinden raster dosyası .tif uzantısıyla aktarılmıştır. 
-•	Ardından semboloji, renk rampası ve raster shader’ları python koduyla tanıtılarak çalıştırıldığında karşılaşılan görüntü “1.jpg” ve “2.jpg” dosyalarındaki ekran görüntülerinde gösterilmiştir.
-•	Bu ekran görüntülerinde belirtilen çıktılar “dem.tif” ve “dem_result.tif” olmak üzere kaydedilmiştir.
+Öncelikle QGIS üzerinden raster dosyası .tif uzantısıyla aktarılmıştır.
+Ardından semboloji, renk rampası ve raster shader’ları python koduyla tanıtılarak çalıştırıldığında karşılaşılan görüntü “1.jpg” ve “2.jpg” dosyalarındaki ekran görüntülerinde gösterilmiştir.
+Bu ekran görüntülerinde belirtilen çıktılar “dem.tif” ve “dem_result.tif” olmak üzere kaydedilmiştir.
 
 2) İlgili görselin ve izlenen adımların GitHub hesabında oluşturulan “Python - Final - Emre Çaylak (24831211002)“adlı repository’de hazırlanan Python koduyla birlikte “Readme.md” dosyası içerisinde açıklanması.
-•	Ödev kapsamında hazırlanan belgeler GitHub hesabı üzerinden bir repository oluşturularak içerisine aktarılmıştır (URL-2).
-•	Hazırlanan repository’nin içerisine uygulama aşamasında oluşturulan ekran görüntüleri ve çıktılar aktarılmıştır.
-•	“Readme.md” dosyası içerisinde uygulamanın açıklaması ve kullanılan Python kodu belirtilmiştir:
+Ödev kapsamında hazırlanan belgeler GitHub hesabı üzerinden bir repository oluşturularak içerisine aktarılmıştır (URL-2).
+Hazırlanan repository’nin içerisine uygulama aşamasında oluşturulan ekran görüntüleri ve çıktılar aktarılmıştır.
+“Readme.md” dosyası içerisinde uygulamanın açıklaması ve kullanılan Python kodu belirtilmiştir:
 
 
 
